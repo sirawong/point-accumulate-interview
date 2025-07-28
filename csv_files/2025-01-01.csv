@@ -1,0 +1,4 @@
+customer_id,product_id,category_id,category_name,branch_id,purchased_amount,currency
+U000001,123123,CT1001,BEVERAGE,BR3456,220,THB
+U000002,123124,CT1001,BEVERAGE,BR3444,400,THB
+U000001,123125,CT1003,FOOD,BR3456,1000,THB
